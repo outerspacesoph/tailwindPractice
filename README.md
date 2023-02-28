@@ -1,10 +1,10 @@
 Discord inspired dashboard built with Tailwind CSS and React
 
-![Live Demo](https://tailwindchat.netlify.app/)
+[![Live Demo]](https://api.netlify.com/api/v1/badges/802a65c1-b6f4-4bc6-8e36-43e7bb05a15e/deploy-status)](https://app.netlify.com/sites/tailwindchat/deploys)
 
-![Light Mode](https://postimg.cc/dkbbh81R)
+![Light Mode]([url=https://postimg.cc/dkbbh81R][img]https://i.postimg.cc/dkbbh81R/Screen-Shot-2023-02-28-at-1-53-31-PM.png[/img][/url])
 
-![Dark Mode](https://postimg.cc/D41tL8J9)
+![Dark Mode]([url=https://postimg.cc/D41tL8J9][img]https://i.postimg.cc/D41tL8J9/Screen-Shot-2023-02-28-at-1-53-36-PM.png[/img][/url])
 
 # Getting Started with Create React App
 
